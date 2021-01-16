@@ -64,7 +64,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 - Tripod: 
   - [Manfrotto Carbon Fiber 3-Section Tripod with Horizontal Column (MT055CXPRO3)](https://www.manfrotto.com/us-en/055-carbon-fiber-3-section-tripod-with-horizontal-column-mt055cxpro3/) --*[BUY](https://www.adorama.com/bgmt055cxp3.html)*--
   - [Manfrotto Tripod Bag Padded 75cm (MBAG75PN)](https://www.manfrotto.com/us-en/padded-tripod-bag-75cm-mb-mbag75pn/) --*[BUY](https://www.bhphotovideo.com/c/product/1237612-REG/manfrotto_mb_mbag75pn_mbag75pn_tripod_bag_padded.html)*--
-  - []() --*[BUY]()*--
+  - [Manfrotto Universal Smartphone Clamp, Pro Version (MCPIXI)](https://www.manfrotto.com/us-en/pixi-clamp-for-smartphone-with-multiple-attachments-mcpixi/) --*[BUY](https://www.amazon.com/gp/product/B07K6GHL24)*--
 - Monopod:
   - [Manfrotto XPRO Carbon Fiber Monopod (MPMXPROC4US)](https://www.manfrotto.com/us-en/xpro-monopod-four-section-carbon-fiber-photo-monopod-mpmxproc4us/) --*[BUY](https://www.bhphotovideo.com/c/product/1291113-REG/manfrotto_mpmxproc4us_carbon_fiber_xpro.htmlv)*--
   - [Manfrotto XPRO Fluid Base](https://www.manfrotto.com/us-en/xpro-monopod-full-fluid-base-mvmxprobaseus/) --*[BUY](https://www.bhphotovideo.com/c/product/1291109-REG/manfrotto_mvmxprobaseus_xpro_fluid_base.html)*--
@@ -85,13 +85,13 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - [Canon Speedlite 600EX II-RT, Shoe Mount Flash](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/flashes/speedlite-600ex-ii-rt) --*[BUY](https://www.bhphotovideo.com/c/product/1250646-REG/canon_speedlite_600ex_ii_rt.html)*--
   - []() --*[BUY]()*--
   - []() --*[BUY]()*--
-  - Creative Effects:
-    -  []() --*[BUY]()*--
-    -  []() --*[BUY]()*--
-    -  []() --*[BUY]()*--
-    -  []() --*[BUY]()*--
-    -  []() --*[BUY]()*--
-    -  []() --*[BUY]()*--
+- Creative Effects:
+  -  []() --*[BUY]()*--
+  -  []() --*[BUY]()*--
+  -  []() --*[BUY]()*--
+  -  []() --*[BUY]()*--
+  -  []() --*[BUY]()*--
+  -  []() --*[BUY]()*--
 
 ## Music
 
