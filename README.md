@@ -2,7 +2,8 @@
 
 ## Computer and Workspace
 
-- [Apple MacBook Pro ...]()
+- Laptop: [Apple MacBook Pro ...]()
+- Laptop Stand: [Twelve South HiRise](https://www.twelvesouth.com/products/hirise-for-macbook)
 - Monitor: [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display)
 - Keyboard
   - [Apple Magic Keyboard with Numeric Keypad (Space Gray)](https://www.apple.com/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english-silver)
@@ -52,3 +53,16 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 
 ## Music
 
+- Acoustic Guitar
+  - [Taylor 326e Baritone-6 LTD](https://www.taylorguitars.com/guitars/acoustic/326e-baritone-6-ltd)
+  - [Takamine EG540C (black)](https://www.takamine.com/EG540C)
+- Electric Guitar: [Washburn SS40](https://www.guitar-list.com/washburn/electric-guitars/washburn-ss40)
+- Amps
+  - [Fishman Loudbox]()
+    - [Fishman Dual Foot Switch for Loudbox Amplifiers](https://www.fishman.com/portfolio/dual-foot-switch-for-loudbox-amplifiers/)
+    - [Fishman Loudbox Artist Slip Cover](https://www.amazon.com/Fishman-Loudbox-Artist-Slip-Cover/dp/B003XIJJVC)
+  - []()
+- Pedals
+  - [BOSS Metal Zone MT-2](https://www.boss.info/global/products/mt-2/)
+  - []()
+  - [Dunlop Cry Baby Classic Wah](https://www.jimdunlop.com/cry-baby-classic-wah/)
