@@ -103,10 +103,10 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   -  Suncatcher: [Crystal Rainbow Window Suncatcher](https://www.amazon.com/gp/product/B00IGHUHB6)
   -  Prism: [Crystal 6 inch Optical Glass Triangular Prism](https://www.amazon.com/gp/product/B00FHFV9AI)
   -  Crystal Ball: 
-    - [Original Lensball Pro](https://lensball.com/products/lensball)
-    - [Lensball Mount](https://lensball.com/products/lensball-mount?ref=yotpo_93)
-    - [Lensball Bag](https://lensball.com/products/lensball-bag-1?ref=yotpo_93)
-    - [Crystal Mount](https://www.amazon.com/gp/product/B01ESZ1NLC)
+      - [Original Lensball Pro](https://lensball.com/products/lensball)
+      - [Lensball Mount](https://lensball.com/products/lensball-mount?ref=yotpo_93)
+      - [Lensball Bag](https://lensball.com/products/lensball-bag-1?ref=yotpo_93)
+      - [Crystal Mount](https://www.amazon.com/gp/product/B01ESZ1NLC)
 - Accessories:
   - Remote Shutter: [Flashpoint Wave Commander Remote Shutter Release - Canon 3-Pin RS-60 N3 Accessory Port](https://www.adorama.com/fpcrwn3.html)
   - Lens Cleaner: [Zeiss Lens Care Kit](https://www.amazon.com/gp/product/B00BWFCOYC)
