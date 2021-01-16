@@ -96,8 +96,9 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - [Audible](https://www.audible.com/)
   - [Apple Books](https://www.apple.com/apple-books/)
 - Photography:
-  - [Adobe CC Photoshop](https://www.adobe.com/products/photoshop.html)
-  - [Adobe CC Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+  - [Adobe Creative Cloud Photography Plan](https://www.adobe.com/creativecloud/photography.html)
+    - [Adobe CC Photoshop](https://www.adobe.com/products/photoshop.html)
+    - [Adobe CC Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
   - [Affinity Photo](https://affinity.serif.com/en-us/photo/)
   - [CollageIt 3 Pro](https://apps.apple.com/us/app/collageit-3-pro/id675502824?mt=12)
 - Graphics & Design:
