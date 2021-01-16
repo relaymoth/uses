@@ -18,6 +18,7 @@
 - UPS: [CyberPower CP1500PFCLCD PFC Sinewave UPS System](https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1500pfclcd/)
   - Extension Cords: [Cable Matters 6-Pack 16 AWG Heavy Duty 3 Prong AC Power Extension Cord](https://www.amazon.com/gp/product/B0153T1J8Y)
 - Smart Assistant: [Echo Show 5](https://www.amazon.com/gp/product/B07HZLHPKP)
+- Printer: [HP Officejet Pro 8600 e-All-in-One Printer (N911a)](https://support.hp.com/us-en/product/hp-officejet-pro-8600-e-all-in-one-printer-series-n911/4322914/model/4323658)
 
 ## Audio & Recording
 
@@ -50,6 +51,8 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 ## Apps & Services
 
 ## Photography
+
+- Camera
 
 ## Music
 
