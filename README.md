@@ -211,11 +211,11 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - [Takamine EG540C (black)](https://www.takamine.com/EG540C)
 - Electric Guitar: [Washburn SS40](https://www.guitar-list.com/washburn/electric-guitars/washburn-ss40)
 - Amps
-  - [Fishman Loudbox]()
-    - [Fishman Dual Foot Switch for Loudbox Amplifiers](https://www.fishman.com/portfolio/dual-foot-switch-for-loudbox-amplifiers/) --*[BUY]()*--
-    - [Fishman Loudbox Artist Slip Cover](https://www.amazon.com/Fishman-Loudbox-Artist-Slip-Cover/dp/B003XIJJVC) --*[BUY]()*--
-  - []() --*[BUY]()*--
+  - [Fishman Loudbox Artist](https://www.fishman.com/portfolio/loudbox-artist/) --*[BUY](https://www.amazon.com/Fishman-Loudbox-Acoustic-Instrument-Amplifier/dp/B005TPM1NK)*--
+    - [Fishman Dual Foot Switch for Loudbox Amplifiers](https://www.fishman.com/portfolio/dual-foot-switch-for-loudbox-amplifiers/) --*[BUY](https://www.amazon.com/Fishman-Dual-Switch-Loudbox-Amplifiers/dp/B00AHFXH30)*--
+    - [Fishman Loudbox Artist Slip Cover](https://www.amazon.com/Fishman-Loudbox-Artist-Slip-Cover/dp/B003XIJJVC)
+  - [Randall Commander II Amp](https://images.reverb.com/image/upload/s--DhIXq1iW--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1492804712/uvfx7ayxrtwoymbsh5tt.jpg) --*1970's*--
 - Pedals
   - [BOSS Metal Zone MT-2](https://www.boss.info/global/products/mt-2/) --*[BUY]()*--
-  - []() --*[BUY]()*--
+  - [DOD TR3M Metal Guitar (distortion, chorus, digital delay)](https://images.reverb.com/image/upload/s--cWthkgTC--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1419788454/a4m5uaiyu4itj3vztres.jpg) --*[BUY](https://reverb.com/item/421956-rare-dod-tr3m-metal-guitar-1993-multi-effects-pedal)*--
   - [Dunlop Cry Baby Classic Wah](https://www.jimdunlop.com/cry-baby-classic-wah/) --*[BUY]()*--
