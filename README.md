@@ -87,8 +87,8 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
     - Font: [Victor Mono](https://rubjo.github.io/victor-mono/) (Ligatures On)
   - Diff [KDiff 3](http://kdiff3.sourceforge.net/)
 - Productivity:
-  - [Microsoft Office]()
-  - [Affinity Publisher]()
+  - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/mac/microsoft-365-for-mac)
+  - [Affinity Publisher](https://affinity.serif.com/en-us/publisher/)
   - [Things](https://culturedcode.com/things/)
   - [Bear](https://bear.app/)
   - [MindNode](https://mindnode.com/)
@@ -133,6 +133,10 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
   - [Safari](https://www.apple.com/safari/)
 - Social Media:
+  - Twitter: [Tweetbot](https://tapbots.com/tweetbot/mac/)
+  - [Discord](https://discord.com/download)
+  - [Slack](https://apps.apple.com/app/slack/id803453959)
+  - [Mattermost](https://mattermost.com/download/)
 - Networking:
   - VPN: [Private Internet Access](https://www.privateinternetaccess.com/)
   - BitTorrent: [Transmission](https://transmissionbt.com/)
