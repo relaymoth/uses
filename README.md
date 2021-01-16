@@ -66,6 +66,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - [LEE Filters 100 x 100mm ProGlass IRND 3.0 Filter (10-Stop)](http://www.leefilters.com/index.php/camera-directory/results/YTo0OntzOjg6ImtleXdvcmRzIjtzOjI0OiJQcm9HbGFzcyBJUk5EIDMuMCBGaWx0ZXIiO3M6MTE6InNlYXJjaF9tb2RlIjtzOjM6ImFsbCI7czoxMToicmVzdWx0X3BhZ2UiO3M6MjQ6ImNhbWVyYS1kaXJlY3RvcnkvcmVzdWx0cyI7czoxMDoiY29sbGVjdGlvbiI7YToxOntpOjA7czoxOiIxIjt9fQ) --*[BUY](https://www.bhphotovideo.com/c/product/1344392-REG/lee_filters_pg10_4x4_100x100mm_proglass_irnd_10_stop.html)*--
   - [LEE Filters LEE100 Filter Holder](https://www.leefilters.com/index.php/camera/system) --*[BUY](https://www.bhphotovideo.com/c/product/1462112-REG/lee_filters_100fh_lee100_filter_holder.html)*--
   - [LEE Filters 77mm Wide-Angle Lens Adapter Ring for 100mm System Filter Holder](https://www.leefilters.com/index.php/camera/system) --*[BUY](https://www.bhphotovideo.com/c/product/87147-REG/LEE_Filters_WAR077_Adapter_Ring_77mm.html)*--
+  - [Neewer Camera Lens Filter Pouch Case with Shoulder Strap](https://www.amazon.com/gp/product/B07G13PSW4)
 - Tripod: 
   - [Manfrotto Carbon Fiber 3-Section Tripod with Horizontal Column (MT055CXPRO3)](https://www.manfrotto.com/us-en/055-carbon-fiber-3-section-tripod-with-horizontal-column-mt055cxpro3/) --*[BUY](https://www.adorama.com/bgmt055cxp3.html)*--
   - [Manfrotto Tripod Bag Padded 75cm (MBAG75PN)](https://www.manfrotto.com/us-en/padded-tripod-bag-75cm-mb-mbag75pn/) --*[BUY](https://www.bhphotovideo.com/c/product/1237612-REG/manfrotto_mb_mbag75pn_mbag75pn_tripod_bag_padded.html)*--
@@ -79,28 +80,38 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
    - [Manfrotto XPRO Ball Head with 200PL Quick Release Plate (MHXPRO-BHQ2)](https://www.manfrotto.com/us-en/xpro-ball-head-in-magnesium-with-200pl-plate-mhxpro-bhq2/) --*[BUY](https://www.amazon.com/gp/product/B011Z77P1S)*--
 - Backgrounds:
   - [Manfrotto Black Free Standing Background Support System, with Crossbar & Stands (1314B)](https://www.manfrotto.com/us-en/photo-stand-support-bag-and-spring-complete-set-1314b/) --*[BUY](https://www.adorama.com/bg314b.html)*--
-  - [Metal Chain Expan Set w/ Black Chain (046MCB)](https://www.manfrotto.com/us-en/metal-chain-expan-set-w-black-chain-22lb-capacity-046mcb/) --*[BUY]()*--
+  - [Metal Chain Expan Set w/ Black Chain (046MCB)](https://www.manfrotto.com/us-en/metal-chain-expan-set-w-black-chain-22lb-capacity-046mcb/) --*[BUY](https://www.bhphotovideo.com/c/product/996653-REG/manfrotto_046mcb_expan_background_paper_drive.html)*--
   - [Manfrotto Background Paper Counterweight (062-2)](https://www.manfrotto.com/us-en/background-paper-counterweight-062-2/) --*[BUY](https://www.bhphotovideo.com/c/product/5178-REG/Manfrotto_062_2_062_2_Background_Paper_Counterweight.html)*--
-  - []() --*[BUY]()*--
-  - []() --*[BUY]()*--
-  - [Neewer Chromakey Green Chromakey Blue Collapsible Backdrop Collapsible Reversible Background 5'x7'](https://www.amazon.com/gp/product/B00E89Q5OY) --*[BUY]()*--
-  - [Kate Cold Tones Of Gray And Little Green/White Brick Solid Collapsible Backdrop Photography 5X6.5ft](https://www.katebackdrop.com/products/kate-cold-tones-of-gray-and-little-green-white-brick-solid-collapsible-backdrop-photography-5x6-5ft1-5x2m) --*[BUY]()*--
-  - []() --*[BUY]()*--
+  - [Savage Thunder Gray Seamless Paper - 107" x 12yd](https://savageuniversal.com/products/seamless-paper/thunder-gray-seamless-paper/?attribute_pa_size=107-x-12yd-271cm-x-11m)
+  - [Neewer Chromakey Green Chromakey Blue Collapsible Backdrop Collapsible Reversible Background 5'x7'](https://www.amazon.com/gp/product/B00E89Q5OY)
+  - [Kate Cold Tones Of Gray And Little Green/White Brick Solid Collapsible Backdrop Photography 5X6.5ft](https://www.katebackdrop.com/products/kate-cold-tones-of-gray-and-little-green-white-brick-solid-collapsible-backdrop-photography-5x6-5ft1-5x2m) --*[BUY](https://www.amazon.com/gp/product/B07J4R6QZ1)*--
+  - [Manfrotto 081 Baby Hook for Expan Background Holder](https://www.manfrotto.com/us-en/background-baby-hooks-baby-hooks-for-expan-5-8-081/) --*[BUY](https://www.amazon.com/gp/product/B001FCHXK2)*--
+  - [Neewer 2 Pieces Portable Studio Photography Background and Reflector Disc Holder Clip](https://www.amazon.com/gp/product/B01GFD7PTE)
+  - [Heavy Duty Muslin Clamps 4 1/2 inch 6 Pack](https://www.amazon.com/gp/product/B004AZ38Z0)
+  - [Orange Spring Clamp Large Heavy Duty Spring Metal with 3" Jaw opening, 4" - 6"](https://www.amazon.com/gp/product/B00CPSJCB8)
+  - [Neewer Set of Four Black/Blue Heavy Duty Sand Bags](https://www.amazon.com/gp/product/B00MHNKJZY)
+  - [Neewer Set of Four Black/Yellow Heavy Duty Sand Bags](https://www.amazon.com/gp/product/B00MHNI24O)
+  - [1" Width ProTapes Pro Gaff Premium Matte Cloth Gaffer's Tape](https://www.amazon.com/gp/product/B00DVCFFI6)
 - Lighting:
   - [Dracast ENG Plus 4-Light Complete Kit](https://www.adorama.com/drlengdck.html) --*[BUY](https://www.adorama.com/galsfclk.html)*--
   - [Gary Fong Lightsphere Universal Basic Kit
 ](https://www.garyfong.com/product/lightsphere-universal-basic-kit/) --*[BUY](https://www.bhphotovideo.com/c/product/563666-REG/Gary_Fong_LSU_BASIC_Lightsphere_Universal_Basic_Kit.html)*--
   - [Gary Fong Lightsphere Collapsible Fashion & Commercial Lighting Kit](https://www.garyfong.com/product/fashion-commercial-lighting-kit/) --*[BUY](https://www.adorama.com/galsfclk.html)*--
   - [Canon Speedlite 600EX II-RT, Shoe Mount Flash](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/flashes/speedlite-600ex-ii-rt) --*[BUY](https://www.bhphotovideo.com/c/product/1250646-REG/canon_speedlite_600ex_ii_rt.html)*--
-  - []() --*[BUY]()*--
-  - []() --*[BUY]()*--
+  - [Neewer 43 Inch/110 Centimeter Light Reflector 5-in-1 Collapsible Multi-Disc with Bag](https://www.amazon.com/gp/product/B002ZIMEMW)
 - Creative Effects:
-  -  []() --*[BUY]()*--
-  -  []() --*[BUY]()*--
-  -  []() --*[BUY]()*--
-  -  []() --*[BUY]()*--
-  -  []() --*[BUY]()*--
-  -  []() --*[BUY]()*--
+  -  Suncatcher: [Crystal Rainbow Window Suncatcher](https://www.amazon.com/gp/product/B00IGHUHB6)
+  -  Prism: [Crystal 6 inch Optical Glass Triangular Prism](https://www.amazon.com/gp/product/B00FHFV9AI)
+  -  Crystal Ball: 
+    - [Original Lensball Pro](https://lensball.com/products/lensball)
+    - [Lensball Mount](https://lensball.com/products/lensball-mount?ref=yotpo_93)
+    - [Lensball Bag](https://lensball.com/products/lensball-bag-1?ref=yotpo_93)
+    - [Crystal Mount](https://www.amazon.com/gp/product/B01ESZ1NLC)
+- Accessories:
+  - Remote Shutter: [Flashpoint Wave Commander Remote Shutter Release - Canon 3-Pin RS-60 N3 Accessory Port](https://www.adorama.com/fpcrwn3.html)
+  - Lens Cleaner: [Zeiss Lens Care Kit](https://www.amazon.com/gp/product/B00BWFCOYC)
+  - Dust Blower: [LS Photography Photo Camera Cleaning Pen Brush and Rocket Air Blaster Blower](https://www.amazon.com/gp/product/B019R36K86)
+  - Microfiber Cloths: [MagicFiber Microfiber Cleaning Cloths, 6 PACK](https://www.amazon.com/gp/product/B0050R67U0)
 
 ## Music
 
