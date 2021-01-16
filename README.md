@@ -12,13 +12,15 @@
 
 ## Audio & Recording
 
+```
                                               Guitar
-                                                to
+                                                in
 Mic <-> Mic Activator <-> Compressor <-> Audio Interface <-> Computer
-                                                to out
+                                                out
                                           - Studio Monitors
                                           - Headphones
                                           - BT Reciever/Transmitter <-> Wireless Earbuds
+```
 
 - Mic: [Shure SM7B](https://www.shure.com/en-US/products/microphones/sm7b)
 - Mic Activator: [Cloudlifter CL-1](https://www.cloudmicrophones.com/cloudlifter-cl-1) 
