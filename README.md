@@ -71,24 +71,21 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - Plain Text Copy: [Get Plain Text](https://apps.apple.com/us/app/get-plain-text/id508368068?mt=12)
   - App Cleanup: [AppZapper](https://www.appzapper.com/)
   - Archives: [The Unarchiver](https://theunarchiver.com/)
-- Terminal & Editor:
+- Terminal:
   - Terminal: [iTerm2](https://iterm2.com/)
   - Shell: [zsh](https://www.zsh.org/)
   - Shell Configuration: [Oh My Zsh](https://ohmyz.sh/)
   - Fonts: [Nerd Fonts](https://www.nerdfonts.com/)
     - Hack Nerd Font Mono
-  - Editor: []()
   - Theme: [Night Owl](https://github.com/sdras/night-owl-vscode-theme#other-versions)
   - [My dotfiles](https://github.com/relaymoth/dotfiles)
   - [My Mac Setup Guide](https://github.com/relaymoth/books/tree/main/mac-setup)
 - Development:
   - IDE (Java) [IntelliJ IDEA](https://www.jetbrains.com/idea/)
   - IDE (Web): [VS Code](https://code.visualstudio.com/)
-    - Theme: []()
+    - Theme: [Retreon](https://marketplace.visualstudio.com/items?itemName=kgscott.retreon) *These can change frequently.*
     - Font: [Victor Mono](https://rubjo.github.io/victor-mono/) (Ligatures On)
   - Diff [KDiff 3](http://kdiff3.sourceforge.net/)
-  - []()
-  - []()
 - Productivity:
   - [Microsoft Office]()
   - [Affinity Publisher]()
