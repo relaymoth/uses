@@ -8,6 +8,7 @@
   - Memory: 32 GB 2400 MHz DDR4
   - Graphics: Radeon Pro Vega 20 4 GB; Intel UHD Graphics 630 1536 MB
   - Storage: 4TB SSD
+- Phone: [iPhone 12 Pro Max](https://www.apple.com/iphone-12-pro/)
 - Laptop Stand: [Twelve South HiRise](https://www.twelvesouth.com/products/hirise-for-macbook) --*[BUY](https://www.amazon.com/Twelve-South-MacBook-HeightAdjustable-Stand/dp/B009SKN5DC)*--
 - Monitor: [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display)
 - Keyboards:
@@ -55,6 +56,95 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - TRS (Preamp to Audio Interface): [Monoprice 109439 Premier Series 1/4 Inch (TRS) Male Right Angle to Male Right Angle 16AWG Cable Cord - 1.5 Feet- Black](https://www.amazon.com/gp/product/B009PN2INA)
 
 ## Apps & Services
+
+- Utilities:
+  - Package Tracking: [Parcel](https://parceljs.org/)
+  - Keep Awake: [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12)
+  - [MenuBar Stats](https://www.seense.com/menubarstats/)
+  - [CARROTweather](https://apps.apple.com/us/app/carrot-weather/id961390574)
+  - [Rocket](https://matthewpalmer.net/rocket/)
+  - [PCalc](https://pcalc.com/)
+  - [Bartender 4](https://www.macbartender.com/Bartender4/)
+  - [Alfred 4](https://www.alfredapp.com/)
+  - [Divvy](https://mizage.com/divvy/)
+  - [RDM](https://github.com/avibrazil/RDM)
+  - [Get Plain Text](https://apps.apple.com/us/app/get-plain-text/id508368068?mt=12)
+  - [AppZapper](https://www.appzapper.com/)
+  - [The Unarchiver](https://theunarchiver.com/)
+- Terminal & Editor:
+  - Terminal: [iTerm2](https://iterm2.com/)
+  - Shell: [zsh](https://www.zsh.org/)
+  - Shell Configuration: [Oh My Zsh](https://ohmyz.sh/)
+  - Fonts: []()
+  - Editor: []()
+  - Theme: []()
+  - [My dotfiles]()
+- Development:
+  - IDE (Java) [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+  - IDE (Web): [VS Code](https://code.visualstudio.com/)
+    - Theme: []()
+    - Font: []()
+  - Diff [KDiff 3](http://kdiff3.sourceforge.net/)
+  - []()
+  - []()
+- Productivity:
+  - [Microsoft Office]()
+  - [Affinity Publisher]()
+  - [Things](https://culturedcode.com/things/)
+  - [Bear](https://bear.app/)
+  - [MindNode](https://mindnode.com/)
+  - [Kindle](https://mindnode.com/)
+  - [Audible](https://www.audible.com/)
+  - [Apple Books](https://www.apple.com/apple-books/)
+- Photography:
+  - [Adobe CC Photoshop](https://www.adobe.com/products/photoshop.html)
+  - [Adobe CC Lightroom](https://www.adobe.com/products/photoshop-lightroom.html)
+  - [Affinity Photo](https://affinity.serif.com/en-us/photo/)
+  - [CollageIt 3 Pro](https://apps.apple.com/us/app/collageit-3-pro/id675502824?mt=12)
+- Graphics & Design:
+  - [Adobe Xd](https://www.adobe.com/products/xd.html)
+  - [Logoist 2](https://www.syniumsoftware.com/logoist)
+  - [Affinity Designer](https://affinity.serif.com/en-us/)
+  - [Figma](https://www.figma.com/)
+- Streaming & Recording:
+  - [Streamlabs OBS](https://streamlabs.com/)
+  - [Twitch](https://www.twitch.tv/)
+  - [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
+- Audio:
+  - [LogicPro](https://www.apple.com/logic-pro/)
+  - [Spotify](https://www.spotify.com/)
+  - [Audacity](https://www.audacityteam.org/)
+- Video:
+  - [VLC](https://www.videolan.org/vlc/index.html)
+  - [IINA](https://iina.io/)
+  - [Handbrake](https://handbrake.fr/)
+  - [iMovie](https://www.apple.com/imovie/)
+  - [Adapter](https://macroplant.com/adapter)
+  - [Adobe Premier Rush](https://www.adobe.com/products/premiere-rush.html)
+- Browsers:
+  - [Chrome](https://www.google.com/chrome/)
+      - [Extension: ]()
+      - [Extension: ]()
+      - [Extension: ]()
+      - [Extension: ]()
+      - [Extension: ]()
+      - [Extension: ]()
+      - [Extension: ]()
+      - [Extension: ]()
+      - [Extension: ]()
+      - [Extension: ]()
+  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+  - [Safari](https://www.apple.com/safari/)
+- Social Media:
+- Networking:
+  - VPN: [Private Internet Access](https://www.privateinternetaccess.com/)
+  - BitTorrent: [Transmission](https://transmissionbt.com/)
+  - [WiFi Signal](https://apps.apple.com/us/app/wifi-signal-status-monitor/id525912054?mt=12)
+  - [Zenmap](https://nmap.org/zenmap/)
+- Security:
+  - Password Manager: [1Password](https://1password.com/)
+- Storage:
+  - [Dropbox](https://www.dropbox.com/)
 
 ## Photography
 
