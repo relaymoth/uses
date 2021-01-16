@@ -4,6 +4,12 @@
 
 - [Apple MacBook Pro ...]()
 - Monitor: [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display)
+- Keyboard
+  - [Apple Magic Keyboard with Numeric Keypad (Space Gray)](https://www.apple.com/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english-silver)
+  - [Keychron K3 Ultra-slim Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard?variant=32220198928473)
+- Trackpad: [Magic Trackpad 2 (Space Gray)](https://www.apple.com/shop/product/MJ2R2LL/A/magic-trackpad-2-silver)
+- Desk: [Thomasville Fredericksburg Executive Desk (w/ Custom Glass Top)](https://i.pinimg.com/originals/ba/d1/a9/bad1a9afecf9f7061c48a87e16fc9b54.jpg)
+- Chair: [Wau Desk Chair (Orange)](https://scandinaviandesigns.com/collections/office-chairs/products/wau-desk-chair)
 
 ## Peripherals
 
