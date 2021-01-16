@@ -2,8 +2,13 @@
 
 ## Computer and Workspace
 
-- Laptop: [Apple MacBook Pro ...]()
-- Laptop Stand: [Twelve South HiRise](https://www.twelvesouth.com/products/hirise-for-macbook) --*[BUY]()*--
+- Laptop: [Apple MacBook Pro (Space Gray)](https://support.apple.com/kb/SP794?locale=en_US)
+  - 15-inch, 2019
+  - Processor: 2.4 GHz 8-Core Intel Core i9
+  - Memory: 32 GB 2400 MHz DDR4
+  - Graphics: Radeon Pro Vega 20 4 GB; Intel UHD Graphics 630 1536 MB
+  - Storage: 4TB SSD
+- Laptop Stand: [Twelve South HiRise](https://www.twelvesouth.com/products/hirise-for-macbook) --*[BUY](https://www.amazon.com/Twelve-South-MacBook-HeightAdjustable-Stand/dp/B009SKN5DC)*--
 - Monitor: [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display)
 - Keyboards:
   - [Apple Magic Keyboard with Numeric Keypad (Space Gray)](https://www.apple.com/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english-silver)
@@ -14,8 +19,8 @@
 
 ## Peripherals
 
-- Dock: [CalDigit TS3 Plus Dock](https://www.caldigit.com/ts3-plus/) --*[BUY]()*--
-- UPS: [CyberPower CP1500PFCLCD PFC Sinewave UPS System](https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1500pfclcd/) --*[BUY]()*--
+- Dock: [CalDigit TS3 Plus Dock](https://www.caldigit.com/ts3-plus/) --*[BUY](https://www.amazon.com/CalDigit-TS3-Plus-Thunderbolt-Dock/dp/B07CZPV8DF)*--
+- UPS: [CyberPower CP1500PFCLCD PFC Sinewave UPS System](https://www.cyberpowersystems.com/product/ups/pfc-sinewave/cp1500pfclcd/) --*[BUY](https://www.amazon.com/gp/product/B00429N19W)*--
   - Extension Cords: [Cable Matters 6-Pack 16 AWG Heavy Duty 3 Prong AC Power Extension Cord](https://www.amazon.com/gp/product/B0153T1J8Y)
 - Smart Assistant: [Echo Show 5](https://www.amazon.com/gp/product/B07HZLHPKP)
 - Printer: [HP Officejet Pro 8600 e-All-in-One Printer (N911a)](https://support.hp.com/us-en/product/hp-officejet-pro-8600-e-all-in-one-printer-series-n911/4322914/model/4323658)
@@ -33,14 +38,14 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
                                     - BT Reciever/Transmitter <-> Wireless Earbuds
 ```
 
-- Mic: [Shure SM7B](https://www.shure.com/en-US/products/microphones/sm7b) --*[BUY]()*--
-- Mic Activator: [Cloudlifter CL-1](https://www.cloudmicrophones.com/cloudlifter-cl-1) --*[BUY]()*--
-- Mic Preamp/Channel Strip Processor: [DBX 286x](https://dbxpro.com/en/products/286s) --*[BUY]()*--
-- Audio Interface: [Focusrite Scarlett 4i4](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-4i4) --*[BUY]()*--
-- Mic Stand: [Gator Frameworks Telescoping Boom Stand](https://www.gatorframeworks.com/products/telescoping-boom-podcast-bass-drum-and-amp-mic-stand-gfw-mic-0822/) --*[BUY]()*--
+- Mic: [Shure SM7B](https://www.shure.com/en-US/products/microphones/sm7b) --*[BUY](https://www.amazon.com/Shure-SM7B-Cardioid-Dynamic-Microphone/dp/B0002E4Z8M)*--
+- Mic Activator: [Cloudlifter CL-1](https://www.cloudmicrophones.com/cloudlifter-cl-1) --*[BUY](https://www.amazon.com/Cloud-Microphones-CL-1-Cloudlifter-1-channel/dp/B004MQSV04)*--
+- Mic Preamp/Channel Strip Processor: [DBX 286x](https://dbxpro.com/en/products/286s) --*[BUY](https://www.bhphotovideo.com/c/product/745609-REG/dbx_286S_286s_Microphone_Preamp_Channel.html)*--
+- Audio Interface: [Focusrite Scarlett 4i4](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-4i4) --*[BUY](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QSC92NG)*--
+- Mic Stand: [Gator Frameworks Telescoping Boom Stand](https://www.gatorframeworks.com/products/telescoping-boom-podcast-bass-drum-and-amp-mic-stand-gfw-mic-0822/) --*[BUY](https://www.amazon.com/gp/product/B07NFS9MJX)*--
 - Desktop Tripod: [Neewer Portable Compact Desktop Macro Mini Tripod with 360 Degree Ball Head](https://www.amazon.com/gp/product/B01MSAEZN8)
 - Studio Monitors: [Yamaha HS5 (black) x2](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html) --*[BUY](https://www.bhphotovideo.com/c/product/1390248-REG/yamaha_hs5_powered_studio_monitors.html)*--
-  - Isolation Pads: [Sound Addicted - Studio Monitor Isolation Pads for 5 Inch Monitors](https://www.amazon.com/gp/product/B0757LTZJJ) --*[BUY]()*--
+  - Isolation Pads: [Sound Addicted - Studio Monitor Isolation Pads for 5 Inch Monitors](https://www.amazon.com/gp/product/B0757LTZJJ)
 - Headphones: [Bose QuietComfort 15](https://www.bose.com/en_us/support/products/bose_headphones_support/bose_around_ear_headphones_support/qc15.html) --*[BUY]()*--
 - Bluetooth Reciever/Transmitter: [Twelve South AirFly Pro (black)](https://www.twelvesouth.com/products/airfly?variant=31847799750713) --*[BUY]()*--
 - Wireless Earbuds: [AirPods Pro](https://www.apple.com/airpods-pro/)
