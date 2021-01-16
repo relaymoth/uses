@@ -12,10 +12,10 @@
 
 ## Audio & Recording
 
-                                             Guitar
-                                                | in
+                                              Guitar
+                                                to
 Mic <-> Mic Activator <-> Compressor <-> Audio Interface <-> Computer
-                                                | out
+                                                to out
                                           - Studio Monitors
                                           - Headphones
                                           - BT Reciever/Transmitter <-> Wireless Earbuds
