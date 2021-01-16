@@ -208,7 +208,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 ## Music
 
 - Acoustic Guitar
-  - *WISHLIST* [Martin HD-35 Guitar](https://www.martinguitar.com/guitars/standard-series/hd-35/) --*[BUY]()*--
+  - *WISHLIST* [Martin HD-35 Guitar](https://www.martinguitar.com/guitars/standard-series/hd-35/) --*[BUY](https://www.maurysmusic.com/)*--
   - [Taylor 326e Baritone-6 LTD](https://www.taylorguitars.com/guitars/acoustic/326e-baritone-6-ltd)
   - [Takamine EG540C (black)](https://www.takamine.com/EG540C)
 - Electric Guitar: [Washburn SS40](https://www.guitar-list.com/washburn/electric-guitars/washburn-ss40)
