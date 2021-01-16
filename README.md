@@ -46,10 +46,10 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 - Desktop Tripod: [Neewer Portable Compact Desktop Macro Mini Tripod with 360 Degree Ball Head](https://www.amazon.com/gp/product/B01MSAEZN8)
 - Studio Monitors: [Yamaha HS5 (black) x2](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html) --*[BUY](https://www.bhphotovideo.com/c/product/1390248-REG/yamaha_hs5_powered_studio_monitors.html)*--
   - Isolation Pads: [Sound Addicted - Studio Monitor Isolation Pads for 5 Inch Monitors](https://www.amazon.com/gp/product/B0757LTZJJ)
-- Headphones: [Bose QuietComfort 15](https://www.bose.com/en_us/support/products/bose_headphones_support/bose_around_ear_headphones_support/qc15.html) --*[BUY]()*--
-- Bluetooth Reciever/Transmitter: [Twelve South AirFly Pro (black)](https://www.twelvesouth.com/products/airfly?variant=31847799750713) --*[BUY]()*--
+- Headphones: [Bose QuietComfort 15](https://www.bose.com/en_us/support/products/bose_headphones_support/bose_around_ear_headphones_support/qc15.html)
+- Bluetooth Reciever/Transmitter: [Twelve South AirFly Pro (black)](https://www.twelvesouth.com/products/airfly?variant=31847799750713) --*[BUY](https://www.apple.com/shop/product/HP8B2ZM/A/twelve-south-airfly-pro-bluetooth-transmitter)*--
 - Wireless Earbuds: [AirPods Pro](https://www.apple.com/airpods-pro/)
-- Wireless Speaker: [Sonos Play:1](https://www.sonos.com/en-us/shop/play1-b-stock.html) --*[BUY]()*--
+- Wireless Speaker: [Sonos Play:1](https://www.sonos.com/en-us/shop/play1-b-stock.html)
 - Cables:
   - XLR (Mic to Mic Activator to Preamp): [Amazon Basics XLR Male to Female Microphone Cable - 6 Feet (x2)](https://www.amazon.com/gp/product/B01JNLTTKS)
   - TRS (Preamp to Audio Interface): [Monoprice 109439 Premier Series 1/4 Inch (TRS) Male Right Angle to Male Right Angle 16AWG Cable Cord - 1.5 Feet- Black](https://www.amazon.com/gp/product/B009PN2INA)
@@ -58,9 +58,9 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 
 ## Photography
 
-- Camera: [Canon EOS 5D Mark IV](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/eos-dslr-and-mirrorless-cameras/dslr/eos-5d-mark-iv) --*[BUY]()*--
+- Camera: [Canon EOS 5D Mark IV](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/eos-dslr-and-mirrorless-cameras/dslr/eos-5d-mark-iv) --*[BUY](https://www.bhphotovideo.com/c/product/1274705-REG/canon_eos_5d_mark_iv.html)*--
 - Lenses:
-  - [Canon EF 24-105mm f/4L IS II USM](https://www.usa.canon.com/internet/portal/us/home/products/details/lenses/ef/standard-zoom/ef-24-105mm-f-4l-is-ii-usm) --*[BUY]()*--
+  - [Canon EF 24-105mm f/4L IS II USM](https://www.usa.canon.com/internet/portal/us/home/products/details/lenses/ef/standard-zoom/ef-24-105mm-f-4l-is-ii-usm) --*[BUY](https://www.bhphotovideo.com/c/product/1274709-REG/canon_ef_24_105mm_f_4l_is.html)*--
 - Filters:
   - [Hoya 77mm HD3 UV Filter](https://hoyafilterusa.com/products/hd3-uv) --*[BUY](https://www.adorama.com/hy77uvhd3.html)*--
   - [LEE Filters 100 x 100mm ProGlass IRND 3.0 Filter (10-Stop)](http://www.leefilters.com/index.php/camera-directory/results/YTo0OntzOjg6ImtleXdvcmRzIjtzOjI0OiJQcm9HbGFzcyBJUk5EIDMuMCBGaWx0ZXIiO3M6MTE6InNlYXJjaF9tb2RlIjtzOjM6ImFsbCI7czoxMToicmVzdWx0X3BhZ2UiO3M6MjQ6ImNhbWVyYS1kaXJlY3RvcnkvcmVzdWx0cyI7czoxMDoiY29sbGVjdGlvbiI7YToxOntpOjA7czoxOiIxIjt9fQ) --*[BUY](https://www.bhphotovideo.com/c/product/1344392-REG/lee_filters_pg10_4x4_100x100mm_proglass_irnd_10_stop.html)*--
@@ -69,14 +69,18 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 - Tripod: 
   - [Manfrotto Carbon Fiber 3-Section Tripod with Horizontal Column (MT055CXPRO3)](https://www.manfrotto.com/us-en/055-carbon-fiber-3-section-tripod-with-horizontal-column-mt055cxpro3/) --*[BUY](https://www.adorama.com/bgmt055cxp3.html)*--
   - [Manfrotto Tripod Bag Padded 75cm (MBAG75PN)](https://www.manfrotto.com/us-en/padded-tripod-bag-75cm-mb-mbag75pn/) --*[BUY](https://www.bhphotovideo.com/c/product/1237612-REG/manfrotto_mb_mbag75pn_mbag75pn_tripod_bag_padded.html)*--
-  - [Manfrotto Universal Smartphone Clamp, Pro Version (MCPIXI)](https://www.manfrotto.com/us-en/pixi-clamp-for-smartphone-with-multiple-attachments-mcpixi/) --*[BUY](https://www.amazon.com/gp/product/B07K6GHL24)*--
 - Monopod:
   - [Manfrotto XPRO Carbon Fiber Monopod (MPMXPROC4US)](https://www.manfrotto.com/us-en/xpro-monopod-four-section-carbon-fiber-photo-monopod-mpmxproc4us/) --*[BUY](https://www.bhphotovideo.com/c/product/1291113-REG/manfrotto_mpmxproc4us_carbon_fiber_xpro.htmlv)*--
   - [Manfrotto XPRO Fluid Base](https://www.manfrotto.com/us-en/xpro-monopod-full-fluid-base-mvmxprobaseus/) --*[BUY](https://www.bhphotovideo.com/c/product/1291109-REG/manfrotto_mvmxprobaseus_xpro_fluid_base.html)*--
+- Heads:
+   - [Manfrotto Universal Smartphone Clamp, Pro Version (MCPIXI)](https://www.manfrotto.com/us-en/pixi-clamp-for-smartphone-with-multiple-attachments-mcpixi/) --*[BUY](https://www.amazon.com/gp/product/B07K6GHL24)*--
+   - [Manfrotto Tilt Head for Monopods, with Quick Release (234RC)](https://www.manfrotto.com/us-en/monopod-head-with-quick-release-wide-90-scope-234rc/) --*[BUY](https://www.bhphotovideo.com/c/product/554098-REG/Manfrotto_234RC_234RC_Swivel_Tilt_Head_for.html)*--
+   - [Manfrotto 808RC4 3-Way, Pan-and-Tilt Head with 410PL Quick Release Plate](https://www.manfrotto.com/us-en/3-way-pan-tilt-tripod-head-with-rc4-quick-release-plate-808rc4/) --*[BUY](https://www.bhphotovideo.com/c/product/445434-REG/Manfrotto_808RC4_808RC4_3_Way_Pan_Tilt_Head.html)*--
+   - [Manfrotto XPRO Ball Head with 200PL Quick Release Plate (MHXPRO-BHQ2)](https://www.manfrotto.com/us-en/xpro-ball-head-in-magnesium-with-200pl-plate-mhxpro-bhq2/) --*[BUY](https://www.amazon.com/gp/product/B011Z77P1S)*--
 - Backgrounds:
   - [Manfrotto Black Free Standing Background Support System, with Crossbar & Stands (1314B)](https://www.manfrotto.com/us-en/photo-stand-support-bag-and-spring-complete-set-1314b/) --*[BUY](https://www.adorama.com/bg314b.html)*--
   - [Metal Chain Expan Set w/ Black Chain (046MCB)](https://www.manfrotto.com/us-en/metal-chain-expan-set-w-black-chain-22lb-capacity-046mcb/) --*[BUY]()*--
-  - [Manfrotto 062-2 Background Paper Counterweight](https://www.manfrotto.com/us-en/background-paper-counterweight-062-2/) --*[BUY](https://www.bhphotovideo.com/c/product/5178-REG/Manfrotto_062_2_062_2_Background_Paper_Counterweight.html)*--
+  - [Manfrotto Background Paper Counterweight (062-2)](https://www.manfrotto.com/us-en/background-paper-counterweight-062-2/) --*[BUY](https://www.bhphotovideo.com/c/product/5178-REG/Manfrotto_062_2_062_2_Background_Paper_Counterweight.html)*--
   - []() --*[BUY]()*--
   - []() --*[BUY]()*--
   - [Neewer Chromakey Green Chromakey Blue Collapsible Backdrop Collapsible Reversible Background 5'x7'](https://www.amazon.com/gp/product/B00E89Q5OY) --*[BUY]()*--
