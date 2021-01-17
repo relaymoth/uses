@@ -173,7 +173,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
    - [Manfrotto XPRO Ball Head with 200PL Quick Release Plate (MHXPRO-BHQ2)](https://www.manfrotto.com/us-en/xpro-ball-head-in-magnesium-with-200pl-plate-mhxpro-bhq2/) --*[BUY](https://www.amazon.com/gp/product/B011Z77P1S)*--
 - Backgrounds:
   - [Manfrotto Black Free Standing Background Support System, with Crossbar & Stands (1314B)](https://www.manfrotto.com/us-en/photo-stand-support-bag-and-spring-complete-set-1314b/) --*[BUY](https://www.adorama.com/bg314b.html)*--
-  - [Metal Chain Expan Set w/ Black Chain (046MCB)](https://www.manfrotto.com/us-en/metal-chain-expan-set-w-black-chain-22lb-capacity-046mcb/) --*[BUY](https://www.bhphotovideo.com/c/product/996653-REG/manfrotto_046mcb_expan_background_paper_drive.html)*--
+  - [Manfrotto Metal Chain Expan Set w/ Black Chain (046MCB)](https://www.manfrotto.com/us-en/metal-chain-expan-set-w-black-chain-22lb-capacity-046mcb/) --*[BUY](https://www.bhphotovideo.com/c/product/996653-REG/manfrotto_046mcb_expan_background_paper_drive.html)*--
   - [Manfrotto Background Paper Counterweight (062-2)](https://www.manfrotto.com/us-en/background-paper-counterweight-062-2/) --*[BUY](https://www.bhphotovideo.com/c/product/5178-REG/Manfrotto_062_2_062_2_Background_Paper_Counterweight.html)*--
   - [Savage Thunder Gray Seamless Paper - 107" x 12yd](https://savageuniversal.com/products/seamless-paper/thunder-gray-seamless-paper/?attribute_pa_size=107-x-12yd-271cm-x-11m)
   - [Neewer Chromakey Green Chromakey Blue Collapsible Backdrop Collapsible Reversible Background 5'x7'](https://www.amazon.com/gp/product/B00E89Q5OY)
