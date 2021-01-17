@@ -151,6 +151,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 ## Photography
 
 - Camera: [Canon EOS 5D Mark IV](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/eos-dslr-and-mirrorless-cameras/dslr/eos-5d-mark-iv) --*[BUY](https://www.bhphotovideo.com/c/product/1274705-REG/canon_eos_5d_mark_iv.html)*--
+- Strap: [The Presidio by ONA (Antique Cognac Leather)](https://onabags.com/products/the-presidio?color=antique-cognac&variant=30872558207021)
 - Lenses:
   - [Canon EF 24-105mm f/4L IS II USM](https://www.usa.canon.com/internet/portal/us/home/products/details/lenses/ef/standard-zoom/ef-24-105mm-f-4l-is-ii-usm) --*[BUY](https://www.bhphotovideo.com/c/product/1274709-REG/canon_ef_24_105mm_f_4l_is.html)*--
 - Filters:
