@@ -63,7 +63,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - System Monitor: [MenuBar Stats](https://www.seense.com/menubarstats/)
   - Weather: [CARROTweather](https://apps.apple.com/us/app/carrot-weather/id961390574)
   - Emojis: [Rocket](https://matthewpalmer.net/rocket/)
-  - Calcultaor: [PCalc](https://pcalc.com/)
+  - Calculator: [PCalc](https://pcalc.com/)
   - Clean Menu Bar: [Bartender 4](https://www.macbartender.com/Bartender4/)
   - Workflows & Automation: [Alfred 4](https://www.alfredapp.com/)
   - Window Management: [Divvy](https://mizage.com/divvy/)
