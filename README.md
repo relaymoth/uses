@@ -121,6 +121,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - [iMovie](https://www.apple.com/imovie/)
   - [Adapter](https://macroplant.com/adapter)
   - [Adobe Premier Rush](https://www.adobe.com/products/premiere-rush.html)
+  - [AnyMP4 AVCHD Converter](https://apps.apple.com/us/app/anymp4-avchd-converter-player/id640034674?mt=12)
 - Browsers:
   - [Chrome](https://www.google.com/chrome/)
       - [Extension: uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
