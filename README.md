@@ -201,7 +201,8 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
       - [Lensball Bag](https://lensball.com/products/lensball-bag-1?ref=yotpo_93)
       - [Crystal Mount](https://www.amazon.com/gp/product/B01ESZ1NLC)
 - Accessories:
-  - Remote Shutter: [Flashpoint Wave Commander Remote Shutter Release - Canon 3-Pin RS-60 N3 Accessory Port](https://www.adorama.com/fpcrwn3.html)
+  - Intervalometer: [Vello Wireless ShutterBoss III Remote Switch with Digital Timer for Select Canon Cameras](https://www.bhphotovideo.com/c/product/1325801-REG/vello_rcw_3_c_wireless_shutterboss_iii_remote.html)
+      - [Ruggard RTC-10 Timer-Remote Case for Tripods](https://www.bhphotovideo.com/c/product/1275994-REG/ruggard_rtc_10_attachable_tripod_case_for.html)
   - Lens Cleaner: [Zeiss Lens Care Kit](https://www.amazon.com/gp/product/B00BWFCOYC)
   - Dust Blower: [LS Photography Photo Camera Cleaning Pen Brush and Rocket Air Blaster Blower](https://www.amazon.com/gp/product/B019R36K86)
   - Microfiber Cloths: [MagicFiber Microfiber Cleaning Cloths, 6 PACK](https://www.amazon.com/gp/product/B0050R67U0)
