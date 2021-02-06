@@ -132,6 +132,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
       - [Extension: Poper Blocker](https://chrome.google.com/webstore/detail/pop-up-blocker-for-chrome/bkkbcggnhapdmkeljlodobbkopceiche)
       - [Extension: React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
       - [Extension: Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano)
+      - [Extension: Apollo Client Developer Tools](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)
   - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
   - [Safari](https://www.apple.com/safari/)
 - Social Media:
