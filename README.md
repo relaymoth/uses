@@ -86,7 +86,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
     - Theme: [Retreon](https://marketplace.visualstudio.com/items?itemName=kgscott.retreon) *These can change frequently.*
     - Font: [Victor Mono](https://rubjo.github.io/victor-mono/) (Ligatures On)
     - Extensions: [My VS Code Extensions](https://github.com/relaymoth/dotfiles/blob/main/.vscode/extensions.md)
-    - Settings: [My VS Code Settings](https://github.com/relaymoth/dotfiles/blob/main/.vscode/settings.json)
+    - Settings: [My VS Code Settings](https://github.com/relaymoth/dotfiles/blob/main/.vscode/settings.js)
   - Diff [KDiff 3](http://kdiff3.sourceforge.net/)
 - Productivity:
   - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/mac/microsoft-365-for-mac)
