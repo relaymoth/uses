@@ -113,7 +113,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - [Twitch](https://www.twitch.tv/)
   - [ScreenFlow](http://www.telestream.net/screenflow/overview.htm)
 - Audio:
-  - [LogicPro](https://www.apple.com/logic-pro/)
+  - [LogicPro](https://www.apple.com/logic-pro/) *TRIAL MODE*
   - [Spotify](https://www.spotify.com/)
   - [Audacity](https://www.audacityteam.org/)
 - Video:
