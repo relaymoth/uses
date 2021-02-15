@@ -85,7 +85,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - IDE (Web): [VS Code](https://code.visualstudio.com/)
     - Theme: [Retreon](https://marketplace.visualstudio.com/items?itemName=kgscott.retreon) *These can change frequently.*
     - Font: [Victor Mono](https://rubjo.github.io/victor-mono/) (Ligatures On)
-    - Extensions: [See my dotfiles](https://github.com/relaymoth/dotfiles)
+    - Extensions & Settings: [See my dotfiles](https://github.com/relaymoth/dotfiles)
   - Diff [KDiff 3](http://kdiff3.sourceforge.net/)
 - Productivity:
   - [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365/mac/microsoft-365-for-mac)
