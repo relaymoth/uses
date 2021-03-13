@@ -1,7 +1,5 @@
 # Uses
 
-Hey, Jeff! What do you use?
-
 ## Computer and Workspace
 
 - Laptop: [Apple MacBook Pro (Space Gray)](https://support.apple.com/kb/SP794?locale=en_US)
