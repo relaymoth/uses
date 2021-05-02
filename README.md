@@ -62,7 +62,8 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
     - Gain: 0
 - Audio Interface: [Focusrite Scarlett 4i4](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-4i4) --*[BUY](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QSC92NG)*--
   - Input 1: 10% (arrow facing lower left)
-  - Phanton Power: off
+  - Input 2: Off
+  - Phanton Power (48V): Off
 - Mic Stand: [Gator Frameworks Telescoping Boom Stand](https://www.gatorframeworks.com/products/telescoping-boom-podcast-bass-drum-and-amp-mic-stand-gfw-mic-0822/) --*[BUY](https://www.amazon.com/gp/product/B07NFS9MJX)*--
 - Desktop Tripod: [Neewer Portable Compact Desktop Macro Mini Tripod with 360 Degree Ball Head](https://www.amazon.com/gp/product/B01MSAEZN8)
 - Studio Monitors: [Yamaha HS5 (black) x2](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html) --*[BUY](https://www.bhphotovideo.com/c/product/1390248-REG/yamaha_hs5_powered_studio_monitors.html)*--
