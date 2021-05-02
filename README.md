@@ -41,8 +41,6 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 
 - Mic: [Shure SM7B](https://www.shure.com/en-US/products/microphones/sm7b) --*[BUY](https://www.amazon.com/Shure-SM7B-Cardioid-Dynamic-Microphone/dp/B0002E4Z8M)*--
 - Mic Activator: [Cloudlifter CL-1](https://www.cloudmicrophones.com/cloudlifter-cl-1) --*[BUY](https://www.amazon.com/Cloud-Microphones-CL-1-Cloudlifter-1-channel/dp/B004MQSV04)*--
-  - Input 1: 10% (arrow facing lower left)
-  - Phanton Power: off
 - Mic Preamp/Channel Strip Processor: [DBX 286x](https://dbxpro.com/en/products/286s) --*[BUY](https://www.bhphotovideo.com/c/product/745609-REG/dbx_286S_286s_Microphone_Preamp_Channel.html)*--
   - Mic Preamp
     - Line: +49 (1 bar past +45)
@@ -63,6 +61,8 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - Output
     - Gain: 0
 - Audio Interface: [Focusrite Scarlett 4i4](https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-4i4) --*[BUY](https://www.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B07QSC92NG)*--
+  - Input 1: 10% (arrow facing lower left)
+  - Phanton Power: off
 - Mic Stand: [Gator Frameworks Telescoping Boom Stand](https://www.gatorframeworks.com/products/telescoping-boom-podcast-bass-drum-and-amp-mic-stand-gfw-mic-0822/) --*[BUY](https://www.amazon.com/gp/product/B07NFS9MJX)*--
 - Desktop Tripod: [Neewer Portable Compact Desktop Macro Mini Tripod with 360 Degree Ball Head](https://www.amazon.com/gp/product/B01MSAEZN8)
 - Studio Monitors: [Yamaha HS5 (black) x2](https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html) --*[BUY](https://www.bhphotovideo.com/c/product/1390248-REG/yamaha_hs5_powered_studio_monitors.html)*--
