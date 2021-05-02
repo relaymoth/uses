@@ -43,7 +43,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
 - Mic Activator: [Cloudlifter CL-1](https://www.cloudmicrophones.com/cloudlifter-cl-1) --*[BUY](https://www.amazon.com/Cloud-Microphones-CL-1-Cloudlifter-1-channel/dp/B004MQSV04)*--
 - Mic Preamp/Channel Strip Processor: [DBX 286x](https://dbxpro.com/en/products/286s) --*[BUY](https://www.bhphotovideo.com/c/product/745609-REG/dbx_286S_286s_Microphone_Preamp_Channel.html)*--
   - Mic Preamp
-    - Line: +49 (1 bar past +45)
+    - Line: In use: +49 (1 bar past +45), Not in Use: 0
     - Phanton Power: On
     - 80Hz High-Pass: On
   - Compressor
