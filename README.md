@@ -46,6 +46,7 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
     - Line: In use: +49 (1 bar past +45), Not in Use: 0
     - Phanton Power: On
     - 80Hz High-Pass: On
+  - Process Bypass: Off
   - Compressor
     - Drive: 2
     - Density: 7.5
