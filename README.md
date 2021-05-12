@@ -1,5 +1,7 @@
 # Uses
 
+![Picture of Gears for Uses Hero Image](assets/img/uses-hero.jpg)
+
 ## Computer and Workspace
 
 - Laptop: [Apple MacBook Pro (Space Gray)](https://support.apple.com/kb/SP794?locale=en_US)
@@ -249,3 +251,8 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - [BOSS Metal Zone MT-2](https://www.boss.info/global/products/mt-2/) --*[BUY]()*--
   - [DOD TR3M Metal Guitar (distortion, chorus, digital delay)](https://images.reverb.com/image/upload/s--cWthkgTC--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1419788454/a4m5uaiyu4itj3vztres.jpg) --*[BUY](https://reverb.com/item/421956-rare-dod-tr3m-metal-guitar-1993-multi-effects-pedal)*--
   - [Dunlop Cry Baby Classic Wah](https://www.jimdunlop.com/cry-baby-classic-wah/) --*[BUY]()*--
+
+
+## Attribution
+
+The background for the hero image is by [Bill Oxford, Unsplash](https://unsplash.com/photos/-fGqsewtsJY).
