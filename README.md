@@ -253,6 +253,4 @@ Mic <-> Mic Activator <-> Preamp <-> Audio Interface <-> Computer
   - [Dunlop Cry Baby Classic Wah](https://www.jimdunlop.com/cry-baby-classic-wah/) --*[BUY]()*--
 
 
-## Attribution
-
-The background for the hero image is by [Bill Oxford, Unsplash](https://unsplash.com/photos/-fGqsewtsJY).
+*Attribution: The background for the hero image is by [Bill Oxford, Unsplash](https://unsplash.com/photos/-fGqsewtsJY).*
