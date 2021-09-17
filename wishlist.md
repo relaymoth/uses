@@ -46,6 +46,7 @@
 ### Software
 
 - $199.99 [Logic Pro](https://www.apple.com/logic-pro/)
+- $99.00 [Recut](https://getrecut.com/)
 
 ### Desk
 
