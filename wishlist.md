@@ -42,6 +42,7 @@
   - $399.99 [Razer Core X Chroma](https://www.razer.com/gaming-egpus/Razer-Core-X/RC21-01430100-R3U1)
   - $439.99 [PowerColor Red Devil AMD Radeon RX 5700 XT](https://www.amazon.com/PowerColor-Devil-Radeon-GDDR6-Graphics/dp/B07WP6TYQ3/ref=sr_1_1?dchild=1&keywords=5700xt&qid=1601993199&sr=8-1)
 - $69.99 [CalDigit Thunderbolt 3 Cable (2m)](http://shop.caldigit.com/us/TBT3-A20B-540)
+- $1499.00+ [Apple Studio Display](https://www.apple.com/studio-display)
 
 ### Software
 
