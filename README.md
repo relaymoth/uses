@@ -28,6 +28,14 @@
 - Printer: [HP Officejet Pro 8600 e-All-in-One Printer (N911a)](https://support.hp.com/us-en/product/hp-officejet-pro-8600-e-all-in-one-printer-series-n911/4322914/model/4323658)
 - Shredder: [Royal 1630mc](https://shop.royalsupplies.com/Shredders/1630MC-Shredder.html) --*[BUY](https://www.costco.com/royal-16-sheet-microcut-shredder.product.100376898.html)*--
 
+## Networking
+
+- [Ubiquiti Dream Machine Special Edition](https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/dream-machine-se)
+- [Ubiquiti Switch Enterprise 24 PoE](https://store.ui.com/collections/unifi-network-switching/products/usw-enterprise-24-poe)
+- [Ubiquiti SmartPower Redundant Power System](https://store.ui.com/collections/unifi-network-smartpower/products/usp-rps)
+- [Ubiquiti SmartPower PDU Pro](https://store.ui.com/collections/unifi-network-smartpower/products/usp-pdu-pro)
+- [Ubiquiti Access Point U6 Enterprise](https://store.ui.com/collections/unifi-network-wireless/products/u6-enterprise)
+
 ## Audio & Recording
 
 ```
