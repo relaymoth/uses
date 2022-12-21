@@ -30,11 +30,11 @@
 
 ## Networking
 
-- [Ubiquiti Dream Machine Special Edition](https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/dream-machine-se)
-- [Ubiquiti Switch Enterprise 24 PoE](https://store.ui.com/collections/unifi-network-switching/products/usw-enterprise-24-poe)
-- [Ubiquiti SmartPower Redundant Power System](https://store.ui.com/collections/unifi-network-smartpower/products/usp-rps)
-- [Ubiquiti SmartPower PDU Pro](https://store.ui.com/collections/unifi-network-smartpower/products/usp-pdu-pro)
-- [Ubiquiti Access Point U6 Enterprise](https://store.ui.com/collections/unifi-network-wireless/products/u6-enterprise)
+- Router: [Ubiquiti Dream Machine Special Edition](https://store.ui.com/collections/unifi-network-unifi-os-consoles/products/dream-machine-se)
+- Switch: [Ubiquiti Switch Enterprise 24 PoE](https://store.ui.com/collections/unifi-network-switching/products/usw-enterprise-24-poe)
+- RPS: [Ubiquiti SmartPower Redundant Power System](https://store.ui.com/collections/unifi-network-smartpower/products/usp-rps)
+- PDU: [Ubiquiti SmartPower PDU Pro](https://store.ui.com/collections/unifi-network-smartpower/products/usp-pdu-pro)
+- WiFi Access Point: [Ubiquiti Access Point U6 Enterprise](https://store.ui.com/collections/unifi-network-wireless/products/u6-enterprise)
 
 ## Audio & Recording
 
