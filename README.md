@@ -4,15 +4,14 @@
 
 ## Computer and Workspace
 
-- Laptop: [Apple MacBook Pro (Space Gray)](https://support.apple.com/kb/SP794?locale=en_US)
-  - 15-inch, 2019
-  - Processor: 2.4 GHz 8-Core Intel Core i9
-  - Memory: 32 GB 2400 MHz DDR4
-  - Graphics: Radeon Pro Vega 20 4 GB; Intel UHD Graphics 630 1536 MB
+- Laptop: [Apple MacBook Pro (Space Gray)](https://support.apple.com/kb/SP858?locale=en_US)
+  - 16-inch, 2021
+  - Processor: Apple M1 Max chip with 10-core CPU, 32-core GPU, and 16-core Neural Engine
+  - Memory: 64GB unified memory
   - Storage: 4TB SSD
 - Phone: [iPhone 12 Pro Max](https://www.apple.com/iphone-12-pro/)
 - Laptop Stand: [Twelve South HiRise](https://www.twelvesouth.com/products/hirise-for-macbook) --*[BUY](https://www.amazon.com/Twelve-South-MacBook-HeightAdjustable-Stand/dp/B009SKN5DC)*--
-- Monitor: [LG UltraFine 5K Display](https://www.apple.com/shop/product/HMUB2LL/A/lg-ultrafine-5k-display)
+- Monitor: [Apple Pro Display XDR (w/ Nano-textuire Glass and Pro Stand)](https://www.apple.com/pro-display-xdr/specs/)
 - Keyboards:
   - [Apple Magic Keyboard with Numeric Keypad (Space Gray)](https://www.apple.com/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english-silver)
   - [Keychron K3 Ultra-slim Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k3-wireless-mechanical-keyboard?variant=32220198928473) (RGB, Optical Red)
